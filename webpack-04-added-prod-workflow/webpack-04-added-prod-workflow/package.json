@@ -1,8 +1,8 @@
 {
-  "name": "understanding-typescript",
+  "name": "calculator-app",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
-  "main": "app.js",
+  "description": "A modular calculator app built with typescript and webpack",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server",
@@ -12,7 +12,7 @@
     "typescript",
     "course"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Elukpo-Chima Constance",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
